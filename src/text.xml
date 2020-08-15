@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+    <description>
+        <title-info>
+            <genre>literature_19</genre>
+            <genre>prose_rus_classic</genre>
+            <genre>poetry</genre>
+            <author>
+                <first-name>Александр</first-name>
+                <middle-name>Сергеевич</middle-name>
+                <last-name>Пушкин</last-name>
+                <id>fec2b083-2a80-102a-9ae1-2dfe723fe7c7</id>
+            </author>
+            <book-title>Евгений Онегин</book-title>
+            <annotation>
+                <p>В книгу вошел роман в стихах А.С.Пушкина (1799–1837) «Евгений Онегин», обязательный для чтения и
+                    изучения в средней общеобразовательной школе.
+                </p>
+                <p>Роман в стихах «Евгений Онегин» стал центральным событием в литературной жизни пушкинской поры. И с
+                    тех пор шедевр А.С.Пушкина не утратил своей популярности, по-прежнему любим и почитаем миллионами
+                    читателей.
+                </p>
+            </annotation>
+            <date value="1833-01-01">1833</date>
+            <coverpage>
+                <image l:href="#cover.jpg"/>
+            </coverpage>
+            <lang>ru</lang>
+            <sequence name="Список школьной литературы 9 класс"/>
+        </title-info>
+        <document-info>
+            <author>
+                <first-name>Ego</first-name>
+                <last-name/>
+                <home-page>http://ego2666.narod.ru</home-page>
+                <email>ego1978mail.ru</email>
+            </author>
+            <program-used>FB Editor v2.0</program-used>
+            <date value="2008-09-08">08 September 2008</date>
+            <src-url>http://www.litres.ru/pages/biblio_book/?art=171966</src-url>
+            <id>2fb07032-fb4c-102b-99a2-0288a49f2f10</id>
+            <version>1.0</version>
+            <history>
+                <p>v1.0 – создание fb2 Ego</p>
+            </history>
+        </document-info>
+        <publish-info>
+            <book-name>Евгений Онегин</book-name>
+            <publisher>Астрель, АСТ</publisher>
+            <city>Москва</city>
+            <year>2004</year>
+            <isbn>5-17-023219-5, 5-271-08565-1</isbn>
+            <sequence name="Библиотека школьника"/>
+        </publish-info>
+    </description>
+    <body>
+        <title>
+            <p>Александр Сергеевич Пушкин</p>
+            <p>Евгений Онегин</p>
+            <p>
+                <emphasis>Роман в стихах</emphasis>
+            </p>
+        </title>
+        <section>
+            <epigraph>
+                <p>Pétri de vanité il avait encore plus de cette espèce d’orgueil qui fait avouer avec la même
+                    indifférence les bonnes comme les mauvaises actions, suite d’un sentiment de supériorité, peut-être
+                    imaginaire.
+                </p>
+                <text-author>
+                    <emphasis>Tiré d’une lettre particulière</emphasis>
+                    <a l:href="#n_1" type="note">[1]</a>
+                </text-author>
+            </epigraph>
+            <poem>
+                <stanza>
+                    <v>He мысля гордый свет забавить,</v>
+                    <v>Вниманье дружбы возлюбя,</v>
+                    <v>Хотел бы я тебе представить</v>
+                    <v>Залог достойнее тебя,</v>
+                    <v>Достойнее души прекрасной,</v>
+                    <v>Святой исполненной мечты,</v>
+                    <v>Поэзии живой и ясной,</v>
+                    <v>Высоких дум и простоты;</v>
+                    <v>Но так и быть – рукой пристрастной</v>
+                    <v>Прими собранье пестрых глав,</v>
